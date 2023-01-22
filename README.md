@@ -1,11 +1,11 @@
-# Simple-Workday-Planner
-<h1>Password Generator</h1>
+
+<h1>Simple-Workday-Planner</h1>
 
 [Deployed Site](https://damianfearon.github.io/Simple-Workday-Planner/)</br>
 [Github Repo](https://github.com/damianfearon/Simple-Workday-Planner)</br>
 [HTML](https://github.com/damianfearon/Simple-Workday-Planner/blob/main/index.html)</br>
 [JS](https://github.com/damianfearon/Simple-Workday-Planner/tree/main/assets/js)</br>
-[CSS](https://github.com/damianfearon/Simple-Workday-Planner/tree/main/assets/css)</br>
+[CSS](https://github.com/damianfearon/Simple-Workday-Planner/tree/main/ssets/css)</br>
 
 
 Unit 6 Challenge: Workday Planner </br>
