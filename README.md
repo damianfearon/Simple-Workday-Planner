@@ -5,7 +5,7 @@
 [Github Repo](https://github.com/damianfearon/Simple-Workday-Planner)</br>
 [HTML](https://github.com/damianfearon/Simple-Workday-Planner/blob/main/index.html)</br>
 [JS](https://github.com/damianfearon/Simple-Workday-Planner/tree/main/assets/js)</br>
-[CSS](https://github.com/damianfearon/Simple-Workday-Planner/tree/main/ssets/css)</br>
+[CSS](https://github.com/damianfearon/Simple-Workday-Planner/tree/main/assets/css)</br>
 
 
 <h2>Unit 6 Challenge: Workday Planner </h2> 
