@@ -106,10 +106,12 @@ saveBtn.click(function () {
   var rowId = $(this).parent().attr("id");
   var textareaValue = $(`#${rowId}`).children("textarea").val();
 
+
   dailyTasks[rowId] = textareaValue;
 
   storeTasks();
 });
+
 
 
 setInterval(showTime, 1000);
