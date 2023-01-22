@@ -11,30 +11,30 @@
 Unit 6 Challenge: Workday Planner </br>
 <br> This Challenge will require you to leverage all the skills you've learned so far, requiring you to think about DOM manipulation, advanced JavaScript, integration of third-party APIs, and more. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. </br>
 
+<h2>User Sory</br>
+<br> AS AN employee with a busy schedule </br>
+<br> WANT to add important events to a daily planner </br>
+<br> SO THAT I can manage my time effectively </br>
+
 <h2>Instructions</h2>
-You have been given a dataset composed of arrays with two fields, Date and Profit/Losses.
-Your task is to write JavaScript code that analyzes the records to calculate each of the following: </br>
+The app should:
+<ul>
+
+<li>Display the current day at the top of the calendar when a user opens the planner.</li>
+
+<li>Present timeblocks for standard business hours when the user scrolls down.</li>
+
+<li>Color-code each timeblock based on past, present, and future when the timeblock is viewed.</li>
+
+<li>Allow a user to enter an event when they click a timeblock.</li>
+
+<li>Save the event in local storage when the save button is clicked in that timeblock.</li>
+
+<li>Persist events between refreshes of a page </li> </br>
 Your application must:
 
-<ul>
- <li>
-Generate a password when the button is clicked.</li>
-<li>Present a series of prompts for password criteria:</li>
-<li>Length of password:
-
-At least 10 characters but no more than 64.
-
-Character types:
-
-Lowercase
-
-Uppercase
-
-Numeric
-
-Special characters ($@%&*, etc.)
-
-Code should validate for each input and at least one character type should be selected.
+</ul>
+ 
 
 Once all prompts are answered, the password should be generated and displayed in an alert or written to the page.</li>
 <li>The greatest increase in profits (date and amount) over the entire period. </li>
