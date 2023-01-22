@@ -26,7 +26,6 @@ var workingHours = [
   [17, "pm"],
 ];
 
-// Function to convert in 12 hours 
 function amPm(index) {
   if (workingHours[index][0] <= 12) {
     return workingHours[index][0] + " " + workingHours[index][1];
