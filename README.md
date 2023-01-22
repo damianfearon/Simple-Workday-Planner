@@ -11,7 +11,7 @@
 <h2>Unit 6 Challenge: Workday Planner </h2> 
 <br> This Challenge will require you to leverage all the skills you've learned so far, requiring you to think about DOM manipulation, advanced JavaScript, integration of third-party APIs, and more. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. </br>
 <br>
-<h2>User Sory</h2>
+<h2>User Story</h2>
 <ul>
 <br> AS AN employee with a busy schedule </br>
 <br> WANT to add important events to a daily planner </br>
